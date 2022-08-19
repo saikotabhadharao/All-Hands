@@ -1,0 +1,11 @@
+p{
+	font-size:15px;
+	width:500px;
+	color:blue;
+	margin:0 10px;
+	padding-top:15px;
+}
+body{
+	width:300px;
+	border:1px solid black;
+}
